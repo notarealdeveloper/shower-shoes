@@ -1,6 +1,6 @@
 OUTFILE 	:= bingo
 INFILES     := $(OUTFILE).c
-CC          := gcc -fno-stack-protector
+CC          := gcc
 WARNINGS    := -Wall
 
 default:
