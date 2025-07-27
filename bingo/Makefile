@@ -1,4 +1,4 @@
-OUTFILE 	:= bingo
+OUTFILE     := bingo
 INFILES     := $(OUTFILE).c
 CC          := gcc
 WARNINGS    := -Wall
@@ -10,4 +10,4 @@ clean:
 	rm -f *.o 
 
 clean-all:
-	rm -f *.o *.so $(OUTFILE)
+	rm -f *.o $(OUTFILE)

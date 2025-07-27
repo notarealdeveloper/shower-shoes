@@ -2,9 +2,9 @@
     ...
     ..
     .
-少  . shǎo. (adj).  young.
-兒  . ér.   (noun). kid.
-書  . shū.  (noun). books.
+少  . shǎo. (adj).
+兒  . ér.   (noun).
+書  . shū.  (noun).
     .
     ..
     ...

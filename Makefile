@@ -1,5 +1,4 @@
 SUBDIRS := $(wildcard */)
-SUBDIRS := $(filter-out Makefile.out/,$(SUBDIRS))
 
 .PHONY: all clean clean-all $(SUBDIRS)
 
